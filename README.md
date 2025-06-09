@@ -1,4 +1,4 @@
-# 👋 Hello, world! I’m @ArthanKyle
+# 👋 Hello, world! I’m ArthanKyle
 
 I'm a full-stack developer and systems architect currently building **automation-driven solutions** for network-based businesses.
 
@@ -19,6 +19,13 @@ I'm a full-stack developer and systems architect currently building **automation
   
 ---
 
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=false" />
+</p>
+
+
 ### 💞️ I’m looking to collaborate on:
 - Full-stack Flutter + Laravel
 - Dev tools and dashboards for real-world use cases
@@ -26,17 +33,13 @@ I'm a full-stack developer and systems architect currently building **automation
 
 ### 📫 How to reach me:
 - **Email**: arthankyle.ydeo@gmail.com  
-- **Discord**: @itsbuilt.diff  
-- **LinkedIn**: [Coming Soon™]  
-
+- **Discord**: @itsbuilt.diff
+  
 ---
 
-### 😄 Pronouns:
-He/Him — or "Sir, the system is down again!"
 
----
 
-> _“Build something useful. Then automate it. Then make it pretty. In that order.”_
+
 
 <!---
 ArthanKyle/ArthanKyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
