@@ -4,19 +4,27 @@ I'm a full-stack developer and systems architect currently building **automation
 
 ---
 
-### 👀 I’m interested in:
-- Laravel + Livewire development
-- Flutter + API integrations
-- Game development
-- Building real-world systems, not just code for tutorials
+## 🛠 Languages & Tools I Use
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+</p>
 
-## 🌱 Currently Learning
-- Advanced modem integrations via HTTP reverse engineering
-- Building resilient, modular backends that survive both users and their routers
-- Zero-downtime remote MAC-level access control
-  
+## 📊 GitHub Stats
+
+| Most Used Languages | Contribution & Repo Stats |
+| ------------------- | ------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthanx&layout=compact&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthanx&count_private=true&show_icons=true&theme=dark&hide_title=true) |
+
+
 ---
 
 ## 🔥 Streak Stats
@@ -25,10 +33,10 @@ I'm a full-stack developer and systems architect currently building **automation
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=false" />
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&languages=1&activity=1&isocalendar=1&base=header,activity&config.timezone=Asia%2FManila" />
+</p>
 
-### 💞️ I’m looking to collaborate on:
-- Full-stack Flutter + Laravel
-- Dev tools and dashboards for real-world use cases
 ---
 
 ### 📫 How to reach me:
@@ -36,10 +44,6 @@ I'm a full-stack developer and systems architect currently building **automation
 - **Discord**: @itsbuilt.diff
   
 ---
-
-
-
-
 
 <!---
 ArthanKyle/ArthanKyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
