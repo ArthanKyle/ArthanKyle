@@ -1,4 +1,4 @@
-I'm a full-stack developer and systems architect currently building **automation-driven solutions** for network-based businesses.
+<h3> I'm a full-stack developer and systems architect currently building **automation-driven solutions** for network-based businesses.</h3> 
 
 ---
 
