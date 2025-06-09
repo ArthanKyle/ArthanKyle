@@ -14,6 +14,8 @@ I'm a full-stack developer and systems architect currently building **automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" />
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" />
 </p>
 
 ## 📊 GitHub Stats
