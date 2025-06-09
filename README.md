@@ -1,5 +1,3 @@
-# 👋 Hello, world! I’m ArthanKyle
-
 I'm a full-stack developer and systems architect currently building **automation-driven solutions** for network-based businesses.
 
 ---
@@ -22,19 +20,14 @@ I'm a full-stack developer and systems architect currently building **automation
 
 | Most Used Languages | Contribution & Repo Stats |
 | ------------------- | ------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthanx&layout=compact&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arthanx&count_private=true&show_icons=true&theme=dark&hide_title=true) |
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthanKyle&layout=compact&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthanKyle&count_private=true&show_icons=true&theme=dark&hide_title=true) |
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak & Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/YOUR_USERNAME?template=classic&languages=1&activity=1&isocalendar=1&base=header,activity&config.timezone=Asia%2FManila" />
+  <img src="https://streak-stats.demolab.com?user=ArthanKyle&theme=dark&hide_border=false" />
 </p>
 
 ---
