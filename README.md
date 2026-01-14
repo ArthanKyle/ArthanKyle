@@ -1,4 +1,7 @@
-<h3> I'm a full-stack developer and systems architect currently building **automation-driven solutions** for network-based businesses.</h3> 
+<h3>
+  I'm a full-stack developer and systems architect currently building
+  <strong>automation-driven solutions</strong> for network-based businesses.
+</h3>
 
 ---
 
@@ -15,16 +18,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
 | Most Used Languages | Contribution & Repo Stats |
 | ------------------- | ------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthanKyle&layout=compact&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthanKyle&count_private=true&show_icons=true&theme=dark&hide_title=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthanKyle&layout=compact&theme=dark&cache_seconds=86400) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthanKyle&show_icons=true&theme=dark&hide_title=true&cache_seconds=86400) |
 
 ---
 
@@ -36,13 +39,14 @@
 
 ---
 
-### 📫 How to reach me:
+## 📫 How to reach me
+
 - **Email**: arthankyle.ydeo@gmail.com  
-- **Discord**: @itsbuilt.diff
-  
+- **Discord**: @itsbuilt.diff  
+
 ---
 
-<!---
-ArthanKyle/ArthanKyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+ArthanKyle/ArthanKyle is a ✨ special ✨ repository because its README.md
+appears on your GitHub profile.
+-->
