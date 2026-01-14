@@ -1,6 +1,7 @@
 <h3>
-I'm a full-stack developer and systems architect currently building
-<strong>automation-driven solutions</strong> for network-based businesses.
+I'm a software developer with a strong background in system development, specializing in
+<strong>mobile and web applications</strong>, automation-driven systems, and scalable solutions
+built with Flutter, Laravel, and modern development tools.
 </h3>
 
 ---
