@@ -25,22 +25,22 @@ I'm a full-stack developer and systems architect currently building
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthanKyle&layout=compact&theme=dark"
-        height="165"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=ArthanKyle&show_icons=true&theme=dark&hide_title=true"
-        height="165"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthanKyle&theme=github_dark"
+  width="100%"
+/>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthanKyle&theme=github_dark"
+    width="45%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthanKyle&theme=github_dark"
+    width="45%"
+  />
+</p>
+
 
 
 ## 🔥 Streak & Contributions
