@@ -1,6 +1,6 @@
 <h3>
-  I'm a full-stack developer and systems architect currently building
-  <strong>automation-driven solutions</strong> for network-based businesses.
+  I'm a full-stack developer currently building
+  <strong>automation-driven solutions</strong> for businesses.
 </h3>
 
 ---
