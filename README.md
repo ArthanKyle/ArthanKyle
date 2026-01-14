@@ -46,7 +46,10 @@ I'm a full-stack developer and systems architect currently building
 ## 🔥 Streak & Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArthanKyle&theme=dark&hide_border=false" />
+  <img
+    src="https://streak-stats.demolab.com?user=ArthanKyle&theme=dark&hide_border=false"
+    width="100%"
+  />
 </p>
 
 ---
