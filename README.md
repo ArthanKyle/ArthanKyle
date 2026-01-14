@@ -64,10 +64,12 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ArthanKyle&theme=dark"
+    src="https://streak-stats.demolab.com?user=ArthanKyle&theme=dark&hide_border=false&cache_seconds=86400"
     style="max-width: 1000px; width: 100%;"
+    alt="GitHub Streak"
   />
 </p>
+
 
 ---
 
