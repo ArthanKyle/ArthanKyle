@@ -1,6 +1,6 @@
 <h3>
-  I'm a full-stack developer currently building
-  <strong>automation-driven solutions</strong> for businesses.
+I'm a full-stack developer and systems architect currently building
+<strong>automation-driven solutions</strong> for network-based businesses.
 </h3>
 
 ---
@@ -45,8 +45,3 @@
 - **Discord**: @itsbuilt.diff  
 
 ---
-
-<!--
-ArthanKyle/ArthanKyle is a ✨ special ✨ repository because its README.md
-appears on your GitHub profile.
--->
