@@ -43,20 +43,25 @@
 ## 📊 GitHub Activity
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthanKyle&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArthanKyle&theme=github_dark&cache_seconds=3600"
   width="100%"
 />
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthanKyle&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthanKyle&theme=github_dark&cache_seconds=3600"
     width="45%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthanKyle&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArthanKyle&theme=github_dark&cache_seconds=3600"
     width="45%"
   />
 </p>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ArthanKyle&show_icons=true&theme=github_dark&hide_title=true&count_private=true&cache_seconds=3600"
+  width="100%"
+/>
 
 ---
 
@@ -64,20 +69,19 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ArthanKyle&theme=dark&hide_border=false&cache_seconds=86400"
-    style="max-width: 1000px; width: 100%;"
+    src="https://streak-stats.demolab.com?user=ArthanKyle&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=3600"
+    width="100%"
     alt="GitHub Streak"
   />
 </p>
-
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  📧 <a href="mailto:arthankyle.ydeo@gmail.com">arthankyle.ydeo@gmail.com</a> <br/>
-  💬 Discord: <strong>@itsbuilt.diff</strong> <br/>
+  📧 <a href="mailto:arthankyle.ydeo@gmail.com">arthankyle.ydeo@gmail.com</a><br/>
+  💬 Discord: <strong>@itsbuilt.diff</strong><br/>
   💼 <a href="https://www.linkedin.com/in/arthan-ydeo">LinkedIn</a> •
   🧑‍💻 <a href="https://github.com/ArthanKyle">GitHub</a>
 </p>
