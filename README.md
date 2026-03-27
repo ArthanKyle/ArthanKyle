@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  I build <strong>automation-driven mobile and web applications</strong> with a strong focus on
-  system design, scalability, and real-world usability using Flutter, Laravel, and modern tools.
+  I build <strong>automation-driven web and mobile applications</strong> with a strong focus on
+  system design, scalability, and real-world usability using React, Node.js, and cloud-based tools.
 </p>
 
 ---
@@ -19,12 +19,13 @@
 
 ### 🧩 About Me
 
-- A Software Developer  
-- Building scalable **web systems (React + Node)**  
-- Background in **mobile (Flutter) & game dev (Unity)**  
-- Currently exploring:
-  - Design Patterns  
+- 👨‍🏫 Currently teaching at a Private College  
+- ⚙️ Building scalable **web systems (React + Node)**  
+- 📱 Background in **mobile (Flutter) & game dev (Unity)**  
+- 🧠 Currently exploring:
+  - Scalability & System Architecture  
   - AI & Machine Learning  
+  - Blockchain Integration  
 
 </td>
 
