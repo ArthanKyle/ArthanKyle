@@ -104,6 +104,6 @@
 <p align="center">
   📧 <a href="mailto:arthankyle.ydeo@gmail.com">arthankyle.ydeo@gmail.com</a><br/>
   💬 Discord: <strong>@itsbuilt.diff</strong><br/>
-  💼 <a href="[https://www.linkedin.com/in/arthan-ydeo](https://www.linkedin.com/in/arthan-kyle-job-ydeo-3019b9371/)](https://www.linkedin.com/in/arthan-kyle-job-ydeo-3019b9371/)">LinkedIn</a> •
+  💼 <a href="https://www.linkedin.com/in/arthan-kyle-job-ydeo-3019b9371/" target="_blank">LinkedIn</a> •
   🧑‍💻 <a href="https://github.com/ArthanKyle">GitHub</a>
 </p>
